@@ -9,7 +9,7 @@ module.exports = {
         return n1 + n2;
     },
     /**
-     * suma = 2 - 1 = 2
+     * resta = 2 - 1 = 2
      * @param {*} n1 Número uno
      * @param {*} n2 Número dos
      * @returns 
@@ -18,7 +18,7 @@ module.exports = {
         return n1 - n2;
     },
     /**
-     * suma = 2 * 1 = 2
+     * multiplicación = 2 * 1 = 2
      * @param {*} n1 Número uno
      * @param {*} n2 Número dos
      * @returns 
@@ -27,7 +27,7 @@ module.exports = {
         return n1 * n2;
     },
     /**
-     * suma = 2 / 1 = 2
+     * división = 2 / 1 = 2
      * @param {*} n1 Número uno
      * @param {*} n2 Número dos
      * @returns 
